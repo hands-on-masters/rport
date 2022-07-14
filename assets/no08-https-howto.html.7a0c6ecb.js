@@ -1,0 +1,1 @@
+const t={key:"v-253d3c8e",path:"/docs/no08-https-howto.html",title:"Securing the Rportd API with HTTPS",lang:"en-DE",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1617705777e3,contributors:[{name:"Birgit Karch",email:"birgit.karch@outlook.com",commits:1}]},filePathRelative:"docs/no08-https-howto.md"};export{t as data};
